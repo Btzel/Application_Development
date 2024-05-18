@@ -1,0 +1,16 @@
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\bin\Debug\eOkulProjesi.exe.config
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\bin\Debug\eOkulProjesi.exe
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\bin\Debug\eOkulProjesi.pdb
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.csproj.AssemblyReference.cache
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Form1.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Properties.Resources.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.csproj.GenerateResource.cache
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.csproj.CoreCompileInputs.cache
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.exe
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.pdb
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_OgrenciNotlar.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_Ogretmen.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_Dersİslem.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_Ogrenciİslem.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_SinavNotlari.resources
+C:\Programlama Dilleri\c#\eOkulProjesi\eOkulProjesi\obj\Debug\eOkulProjesi.Frm_Kulupİslem.resources

@@ -1,0 +1,2 @@
+Program arayuzunde ogrencileri idleri ile goruntuleyebildigimiz ve ogretmenin arayuzunden dersleri kulupleri
+duzenleyebildigimiz notların ortalamasını hesaplayıp sınav ve proje notlarını guncelleyebildigimiz bir e-okul ornegi
