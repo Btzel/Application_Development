@@ -1,0 +1,6 @@
+The interface for patients = you can sign up the patients from sign up interfaces and then log in .. 
+------------------------------------------------------------------------------------------------------
+If your wish is to log in as a doctor. First, you have to register the doctor from secretary interface..
+------------------------------------------------------------------------------------------------------
+There is no sign up panel for secretary ( secretary is not registered by anyone it's added in the database you can check
+it there and update it's information :))..
